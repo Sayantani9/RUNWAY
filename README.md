@@ -23,10 +23,3 @@ Open `index.html` in a browser. No build tools or package installation are requi
 This is a front-end concept/demo. It does **not** connect to cameras, radar, vehicle networks, maps, or live traffic. Scenario changes are illustrative UI states and the displayed evidence bars are not measured performance. The site must not be used to decide whether to overtake in real traffic.
 
 A real system would require a validated sensor pipeline, calibrated uncertainty model, road and vehicle dynamics, human-factors evaluation, extensive closed-course testing, safety engineering, and applicable regulatory review. Never describe this prototype as guaranteeing a safe manoeuvre.
-
-## Customisation
-- Edit scenario copy and values in `app.js`.
-- Edit content and page sections in `index.html`.
-- Edit theme, layout, and responsive rules in `styles.css`.
-
-No performance numbers are claimed; the evaluation bars are explicitly labelled illustrative.
